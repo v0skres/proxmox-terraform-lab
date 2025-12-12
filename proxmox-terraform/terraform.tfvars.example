@@ -1,0 +1,6 @@
+# terraform.tfvars.example - Пример файла с переменными
+# Скопируйте этот файл в terraform.tfvars и заполните реальными значениями
+# terraform.tfvars НЕ КОММИТЬТЕ в Git!
+
+proxmox_password = "REAL_PASSWORD_HERE"
+ssh_public_key   = "ssh-rsa REAL_SSH_KEY_HERE"
